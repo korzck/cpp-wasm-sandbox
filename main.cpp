@@ -1,6 +1,7 @@
-#include <stdio.h>
+#include <iostream>
+#include <emscripten/emscripten.h>
 
 int main() {
-    printf("Hello World\n");
+    std::cout << "hello" << std::endl;
     return 0;
 }
