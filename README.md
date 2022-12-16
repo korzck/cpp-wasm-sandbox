@@ -5,3 +5,4 @@ To try:
 - massive computations
 - draw style?
 - port existing cpp apps to web
+- image vectorizing matrix
